@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+h1 {
+    font-family: "Sacramento", cursive;
+    font-size: 5rem;
+    color: #fff;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.8rem;
+    color: #66bfbf;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    color: #11999e;
+}
+
+/* DIV ONE */
+#one {
+    background-color: #66bfbf;
+    position: relative;
+    padding-top: 50px;
+}
+
+#one p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.aboutMe {
+    padding-left: 220px;
+}
+
+.Me {
+    color: #fff;
+    padding: 10px;
+}
+
+.introAbout {
+    display: flex;
+    padding: 100px 120px;
+}
+
+/* DIV TWO */
+#two {
+    padding: 30px 0;
+    line-height: 2rem;
+}
+
+/* DIV THREE */
+#three {
+    padding: 50px 0;
+    line-height: 2;
+    background-color: #acdbdb;
+}
+
+/* DIV FOUR */
+#four {
+    padding: 40px 0;
+    line-height: 2;
+}
+
+.gender-and-hobbies {
+    display: flex;
+    justify-content: space-around;
+}
+
+#submit_button {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #11999e;
+    color: white;
+}
+
+#form {
+    padding: 35px;
+}
+
+#five {
+    padding: 20px 0;
+    line-height: 2;
+    background-color: #11999e;
+}
